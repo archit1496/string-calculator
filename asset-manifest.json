@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/string-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/string-calculator/static/js/main.69ac38d3.js",
+    "index.html": "/string-calculator/index.html",
+    "main.e6c13ad2.css.map": "/string-calculator/static/css/main.e6c13ad2.css.map",
+    "main.69ac38d3.js.map": "/string-calculator/static/js/main.69ac38d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.69ac38d3.js"
+  ]
+}

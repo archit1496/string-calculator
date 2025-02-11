@@ -22,7 +22,6 @@ const StringCalculator: React.FC = () => {
       setResult(sum);
     } catch (err) {
       setResult(null);
-      debugger
       setError(err.message);
     }
   };
